@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-Myself Rajat Gupta, a Python Developer with proficiency in Web development with Django. I also have a decent knowledge of Data Science. My Educational background is in Electronics and Telecommunications engineering. I'm also good with Java programming language. 
-Looking for challenging opportunities for intellectual growth.
+Back-End Software Developer with strong expertise in Python and a broad range of backend technologies. Well-versed in building and maintaining microservices on Kubernetes, with hands-on contributions to cloud billing and systems. Proven ability to lead cross-team collaboration, drive system stability improvements, and support strategic project transitions.
